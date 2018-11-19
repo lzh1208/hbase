@@ -1,0 +1,15 @@
+# Idea Project Files
+.classpath
+.project
+.settings/
+target/
+*.class
+.idea/
+test-output/
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
